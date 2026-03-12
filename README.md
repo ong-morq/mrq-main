@@ -18,6 +18,7 @@ Am ales să facem codul acestui site public pentru a ajuta și alte asociații m
 * **Content:** [Nuxt Content v2](https://content.nuxtjs.org/) (Markdown based)
 * **Hosting:** Optimizat pentru medii statice (Netlify, Vercel, GitHub Pages)
 
+
 ## 📄 Date Fiscale
 * **CIF:** 52310560
 ---
